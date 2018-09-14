@@ -1,7 +1,7 @@
 import { indigoA700, red500, white } from 'material-ui/styles/colors'
 
 export default {
-  contestTitle: 'Themis Finals',
+  competitionTitle: 'Themis Finals',
   primary1Color: indigoA700,
   accent1Color: red500,
   headerColor: white,
